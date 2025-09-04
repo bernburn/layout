@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <div className="container">
-        <header><h1>Header</h1></header>
+        <header><h1>Bern Ricel Musngi</h1></header>
         <div className="container1">
           <aside className="container2">
             <article className="hero"><h1>Hero</h1></article>
@@ -19,7 +19,7 @@ function App() {
           <section className="relIm"><h1>Related Images</h1></section>
           <section className="relPos"><h1>Related Posts</h1></section>
         </div>
-        <footer><h1>Footer</h1></footer>
+        <footer><h1>C-PCIT9 IT3A</h1></footer>
       </div>
     </>
   )
